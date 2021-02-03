@@ -1,0 +1,12 @@
+.photo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.pages span {
+    cursor: pointer;
+    margin: 5px;
+}
+.active{
+    font-weight: bold;
+}

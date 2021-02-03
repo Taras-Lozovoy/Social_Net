@@ -1,0 +1,8 @@
+.item {
+    text-decoration: none;
+    color: rgb(12, 12, 12);
+}
+
+.active {
+    color: cornflowerblue;
+}

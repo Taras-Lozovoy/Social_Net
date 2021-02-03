@@ -1,0 +1,19 @@
+.nav {
+    grid-area: n;
+    background: rgb(59, 59, 59);
+    padding: 15px;
+}
+
+.item {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin: 20px;
+}
+
+.item:hover {
+    color: rgb(151, 161, 197);
+}
+
+.active {
+    color: rgb(151, 161, 197);
+}

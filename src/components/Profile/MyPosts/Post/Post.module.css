@@ -1,0 +1,23 @@
+.item {
+    display: flex;
+    margin: 20px;
+    justify-content: flex-start;
+    width: 50%;
+    height: auto;
+}
+
+.item img {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.message {
+    align-self: center;
+    justify-content: center;
+}
+.likes {
+    align-self: center;
+    justify-content: center;
+    margin-left: 5px;
+}

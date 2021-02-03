@@ -1,0 +1,15 @@
+.prof {
+    display: flex;
+    width: 100%;
+    height: auto;
+    background: rgb(219, 219, 219);
+}
+
+.ava {
+    margin: 20px;
+}
+
+.ava img {
+    width: 70px;
+    border-radius: 50%;
+}
